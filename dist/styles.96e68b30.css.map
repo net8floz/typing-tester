@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,EACI,QAAS,CACT,SACJ,CAEA,UACI,UAAW,CACX,WACJ,CAEA,OACI,aACJ","file":"styles.96e68b30.css","sourceRoot":"..\\src","sourcesContent":["* {\r\n    margin: 0;\r\n    padding: 0;\r\n}\r\n\r\nhtml, body {\r\n    width: 100%;\r\n    height: 100%;\r\n}\r\n\r\ncanvas {\r\n    display: block;\r\n}"]}
